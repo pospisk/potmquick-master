@@ -1,6 +1,4 @@
 # PlayeroftheGame
 
-
-## Keep in mind
-
-move sln outside and rest of the project inside PlayeroftheGame folder
+## RESTapi
+returns access_token when using login credentials
